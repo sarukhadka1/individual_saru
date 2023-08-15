@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390282911286",
+    "project_id": "individualsaru",
+    "storage_bucket": "individualsaru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390282911286:android:d2951292bf3aaadff54297",
+        "android_client_info": {
+          "package_name": "com.example.n_baz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390282911286-0f26k0a99vm5dkj9q179lkr5e81h1k9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXSr7cmGUz5khvXjMc8WnQ-9d3pyd7xCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390282911286-0f26k0a99vm5dkj9q179lkr5e81h1k9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
